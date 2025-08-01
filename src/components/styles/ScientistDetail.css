@@ -1,0 +1,13 @@
+.detail-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.detail-image {
+  width: 200px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
